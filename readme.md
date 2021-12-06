@@ -17,5 +17,5 @@ e) Add scrolling text with a message of your choice
 f) Add photo of historical place at the top (*)
 ## Solution
 
-[Live Solution]( https://sandesh-at-git.github.io/WebTechAssn1-SetC-Que1/)
+[Live Solution](https://sandesh-at-git.github.io/WebTech-Assn1-SetC-Que1/)
 
